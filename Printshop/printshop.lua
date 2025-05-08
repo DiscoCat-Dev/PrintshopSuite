@@ -63,7 +63,6 @@ end
 -- Define helper functions
 
 local function pageCounter(end_page, start_page, pages)
-	pages = pages or 4
 	local total_pages = end_page - start_page + 1 --inclusive
 	local div = total_pages // pages
 	local mod = total_pages % pages
