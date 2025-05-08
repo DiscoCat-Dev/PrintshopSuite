@@ -23,7 +23,11 @@ You can run the program by typing:
 lua printshop.lua
 ```
 
-Follow the instructions for choosing the sheet orientation, page ranges of the printing material, and pages per sheet.
+And follow the instructions for choosing the sheet orientation, page ranges of the printing material, and pages per sheet.
+
+## **📐 Design Choice: Portrait Mode Limitations**
+
+In *Printshop*, when the user selects **portrait** orientation, the program limits layout options to either **1** or **2 pages per sheet**. This is intentional: while more pages per sheet (like 3 or 4) are technically possible, they tend to produce text that's too small for comfortable reading — especially for academic or long-form content like books or articles. The limit reflects a realistic reading use case rather than maximizing paper efficiency at the expense of readability.
 
 ## Miscellaneous
 
