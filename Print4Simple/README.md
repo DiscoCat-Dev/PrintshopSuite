@@ -1,6 +1,6 @@
 # 🛠️ Print4Simple (Pascal)
 
-**Print4Simple** is a fast, simple Pascal program that calculates the number of sheets and empty pages required for duplex printing at 4 pages per sheet.
+**Print4Simple** is a fast, simple Pascal program that calculates the number of sheets and empty pages required for duplex printing at 4 pages per sheet (landscape).
 
 ## ✅ Features
 
